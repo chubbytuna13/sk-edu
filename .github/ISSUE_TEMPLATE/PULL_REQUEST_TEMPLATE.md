@@ -1,7 +1,7 @@
 # test type of PR
 
 # Description
-new features, bug fix
+Please include a summary of the changes and the related issue. Highlight the purpose of the PR and the problems it solves.
 
 # checklist
 -update
