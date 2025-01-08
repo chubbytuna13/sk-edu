@@ -1,5 +1,8 @@
 # test type of PR
 
-#Description
+# Description
 new features, bug fix
 
+# checklist
+-update
+-news
