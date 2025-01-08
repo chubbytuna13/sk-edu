@@ -5,6 +5,9 @@ Please include a summary of the changes and the related issue. Highlight the pur
 
 # Type of change
 -Bug fix 
+
 -New feature 
+
 -Breaking change 
+
 -Documentation update
